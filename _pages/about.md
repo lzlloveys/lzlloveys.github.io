@@ -32,8 +32,8 @@ She has been a peer reviewer for some SCI-indexed international journals, such a
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+%<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+%<div class='paper-box-text' markdown="1">
 
 [14]  **Zhuolin Li**, Zhen Zhang*, Witold Pedrycz. An incremental preference elicitation-based approach to learning potentially non-monotonic preferences in multi-criteria sorting, European Journal of Operational Research, 2025, in press. (SCI, EI, IF=6.0, ABS 4)
 
