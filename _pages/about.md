@@ -28,7 +28,7 @@ She has been a peer reviewer for some SCI-indexed international journals, such a
 - *2024.11.28* : &nbsp;🎉🎉 a new paper was accepted by European Journal of Operational Research. 
 - *2024.11.16* : &nbsp;🎉🎉 a new paper was accepted by <a href='https://www.sciencedirect.com/science/article/pii/S0305054824003897'>Computers & Operations Research</a>.
 - *2024.10.18* : &nbsp;🎉🎉 a new paper was accepted by <a href='https://www.sciencedirect.com/science/article/pii/S030504832400183X'>Omega: The International Journal of Management Science</a>.
-- *2024.10.18* : &nbsp;🎉🎉 a new paper was accepted <a href='https://ieeexplore.ieee.org/document/10721203'>by IEEE Transactions on Systems, Man, and Cybernetics: Systems</a>.
+- *2024.10.18* : &nbsp;🎉🎉 a new paper was accepted by <a href='https://ieeexplore.ieee.org/document/10721203'>IEEE Transactions on Systems, Man, and Cybernetics: Systems</a>.
 
 # 📝 Publications 
 
@@ -38,6 +38,8 @@ She has been a peer reviewer for some SCI-indexed international journals, such a
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+[14]  **Zhuolin Li**, Zhen Zhang*, Witold Pedrycz. An incremental preference elicitation-based approach to learning potentially non-monotonic preferences in multi-criteria sorting, European Journal of Operational Research, 2025, in press. (SCI, EI, IF=6.0, ABS 4)
+[13] Zhen Zhang, **Zhuolin Li***, Wenyu Yu*. Lexicographic optimization-based approaches to learning a representative model for multi-criteria sorting with non-monotonic criteria, Computers & Operations Research, 2025, 174, 106917. (SCI, EI, 2023 IF=4.1, ABS 3)
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
