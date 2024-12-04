@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Zhuolin Li received the B.S. degree in engineering management from the Taiyuan University of Technology, Taiyuan, China, in 2019, and the master' s degree in management science and engineering from the Dalian University of Technology, Dalian, China, in 2022, where she is currently pursuing the Ph.D. degree. under the supervision of Prof. Zhen Zhang <a href='http://faculty.dlut.edu.cn/zzhang'>. She is also a visiting Ph.D. student in University of Alberta, Canada, under the supervision of Prof. Witold Pedrycz.
+Zhuolin Li received the B.S. degree in engineering management from the Taiyuan University of Technology, Taiyuan, China, in 2019, and the master' s degree in management science and engineering from the Dalian University of Technology, Dalian, China, in 2022, where she is currently pursuing the Ph.D. degree. under the supervision of [Prof. Zhen Zhang] (http://faculty.dlut.edu.cn/zzhang). She is also a visiting Ph.D. student in University of Alberta, Canada, under the supervision of Prof. Witold Pedrycz.
 
 Her research interest includes multi-criteria sorting, preference learning and group decision making. She authored one monograph and published 14 papers on referred journals and conference proceedings, including  European Journal of Operational Research, IEEE Transactions on Systems, Man, and Cybernetics: Systems, IEEE Transactions on Computational Social Systems, Omega, Computers & Operations Research, Journal of the Operational Research Society, Annals of Operations Research, Information Fusion, Computers & Industrial Engineering, among others.
 
@@ -25,10 +25,10 @@ She has been a peer reviewer for some SCI-indexed international journals, such a
 
 
 # 🔥 News
-- *2024.11.28*: &nbsp;🎉🎉 a new paper was accepted by European Journal of Operational Research. 
-- *2024.11.16*: &nbsp;🎉🎉 a new paper was accepted by Computers & Operations Research.
-- *2024.10.18*: &nbsp;🎉🎉 a new paper was accepted by Omega: The International Journal of Management Science.
-- *2024.10.18*: &nbsp;🎉🎉 a new paper was accepted by IEEE Transactions on Systems, Man, and Cybernetics: Systems.
+- *2024.11.28* : &nbsp;🎉🎉 a new paper was accepted by European Journal of Operational Research. 
+- *2024.11.16* : &nbsp;🎉🎉 a new paper was accepted by Computers & Operations Research.
+- *2024.10.18* : &nbsp;🎉🎉 a new paper was accepted by Omega: The International Journal of Management Science.
+- *2024.10.18* : &nbsp;🎉🎉 a new paper was accepted by IEEE Transactions on Systems, Man, and Cybernetics: Systems.
 
 # 📝 Publications 
 
