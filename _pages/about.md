@@ -26,9 +26,9 @@ She has been a peer reviewer for some SCI-indexed international journals, such a
 
 # 🔥 News
 - *2024.11.28* : &nbsp;🎉🎉 a new paper was accepted by European Journal of Operational Research. 
-- *2024.11.16* : &nbsp;🎉🎉 a new paper was accepted by Computers & Operations Research.
-- *2024.10.18* : &nbsp;🎉🎉 a new paper was accepted by Omega: The International Journal of Management Science.
-- *2024.10.18* : &nbsp;🎉🎉 a new paper was accepted by IEEE Transactions on Systems, Man, and Cybernetics: Systems.
+- *2024.11.16* : &nbsp;🎉🎉 a new paper was accepted by <a href='https://www.sciencedirect.com/science/article/pii/S0305054824003897'>Computers & Operations Research</a>.
+- *2024.10.18* : &nbsp;🎉🎉 a new paper was accepted by <a href='https://www.sciencedirect.com/science/article/pii/S030504832400183X'>Omega: The International Journal of Management Science</a>.
+- *2024.10.18* : &nbsp;🎉🎉 a new paper was accepted <a href='https://ieeexplore.ieee.org/document/10721203'>by IEEE Transactions on Systems, Man, and Cybernetics: Systems</a>.
 
 # 📝 Publications 
 
