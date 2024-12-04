@@ -31,6 +31,8 @@ She has been a peer reviewer for some SCI-indexed international journals, such a
 - *2024.10.18* : &nbsp;🎉🎉 a new paper was accepted by <a href='https://ieeexplore.ieee.org/document/10721203'>IEEE Transactions on Systems, Man, and Cybernetics: Systems</a>.
 
 # 📝 Publications 
+
+# Journal papers
 [14]  **Zhuolin Li**, Zhen Zhang*, Witold Pedrycz. An incremental preference elicitation-based approach to learning potentially non-monotonic preferences in multi-criteria sorting, European Journal of Operational Research, 2025, in press. (SCI, EI, IF=6.0, ABS 4)
 
 [13] Zhen Zhang, **Zhuolin Li***, Wenyu Yu*. Lexicographic optimization-based approaches to learning a representative model for multi-criteria sorting with non-monotonic criteria, Computers & Operations Research, 2025, 174, 106917. (SCI, EI, 2023 IF=4.1, ABS 3)
@@ -57,29 +59,23 @@ She has been a peer reviewer for some SCI-indexed international journals, such a
 
 [2] Zhen Zhang*, Yuan Gao, **Zhuolin Li**. Consensus reaching for social network group decision making by considering leadership and bounded confidence, Knowledge-Based Systems, 2020, 204, 106240, doi: 10.1016/j.knosys.2020.106240. (SCI, EI, 2020 IF=8.038, **ESI highly cited paper**)
 
+# Conference papers
 [1] Zhen Zhang, **Zhuolin Li**, Wenyu Yu. Some models to improve the worst consistency level of hesitant fuzzy preference relations. In Proceedings of the14 th International FLINS Conference on Robotics and Artificial Intelligence (FLINS 2020), pp. 327–335,Cologne, Germany, 18-21 August 2020. (EI, ISTP)
 
-
-
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
+# 💻 Projects
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - now*, Ph.D. candidate, School of  Economics and Management, Dalian University of Technology.
+- *2019.09 - 2022.06*, Master's degree, School of  Economics and Management, Dalian University of Technology.
+- *2015.09 - 2019.06*, Bachelor's degree, School of  Economics and Management, Taiyuan University of Technology.
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
