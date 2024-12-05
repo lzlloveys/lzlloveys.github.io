@@ -76,16 +76,30 @@ She has been a peer reviewer for some SCI-indexed international journals, such a
 
 
 # 🎖 Honors and Awards
-- *2024* National Scholarships.
-- 
+- National Scholarships (*2024*, *2023*, *2021*).
+- Excellent Postgraduate Student of Dalian University of Technology (*2024*, *2023*, *2021*, *2020*).
+- Excellent Master's Thesis in Liaoning Province (*2022*).
+- Excellent Master's Thesis of Dalian University of Technology (*2022*).
+- Outstanding Graduate of Dalian (*2022*).
+- Outstanding Graduate of Dalian University of Technology (*2022*).
+- "Professional Study" Scholarship of Taiyuan University of Technology (*2018*, *2017*, *2016*).
+- National Encouragement Scholarship (*2017*).
+- Three Good Students of Taiyuan University of Technology (*2017*).
 
 # 📖 Educations
 - *2022.09 - now*, Ph.D. candidate, School of  Economics and Management, Dalian University of Technology.
 - *2019.09 - 2022.06*, Master's degree, School of  Economics and Management, Dalian University of Technology.
 - *2015.09 - 2019.06*, Bachelor's degree, School of  Economics and Management, Taiyuan University of Technology.
 
-# 💬 Academic Exchange
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Academic Activities
+- *2023.07*, Harbin Institute of Technology "International Summer School on Big Data and Business Analytics". (Harbin, China)
+- *2023.06*, International Conference on Group Decision and Negotiation 2023, delivered an oral report entitled "A multi-criteria group consensus sorting method based on minimum adjustment feedback mechanism" at the Intelligent Group Decision Making and Consensus Process session. (Tokyo, Japan)
+- *2023.04*, The 15th Annual Conference on Decision Science in China. (Shenzhen, China)
+- *2023.02*, 2022 Annual Conference of China Management Science and Engineering Society and the 20th China Management Science and Engineering Forum. (Shenyang, China)
+- *2022.12*, The 2nd Annual Academic Conference of the Data Science and Knowledge System Engineering Committee of the Systems Engineering Society of China, delivered an oral report entitled "Consensus-based TOPSIS-Sort-B for multi-criteria sorting in the context of group decision-making" at the Data and Network-driven Decision Analysis Session. (Online)
+- *2022.07*, The 3rd Academic Conference of the Intelligent Decision Making and Game Theory Branch of the Chinese Society of Optimization, Overall Planning and Economic Mathematics, and the Academic Forum on Intelligence Decision Making and Game Theory Deriven by "Carbon Peaking and Carbon Neutrality", delivered an oral report entitled "Consensus reaching model by considering personalized individual semantics and consistency control". (Changsha, China)
+- *2022.06*,  International Conference on Group Decision and Negotiation 2022, delivered an oral report entitled "Consensus reaching model for group decision making by considering personalized individual semantics and consistency". (Online)
+- The 1st Annual Academic Conference of the Data Science and Knowledge System Engineering Committee of the Systems Engineering Society of China, delivered an oral report entitled "Majority Rule Sorting-based consensus reaching model for multi-criteria group sorting" at the Data and Network-driven Decision Analysis Session. (Online)
+- *2019.11*, The 14th International Conference on Intelligent Systems and Knowledge Engineering. (Dalian, China)
 
 
