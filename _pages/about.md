@@ -37,7 +37,7 @@ She has been a peer reviewer for some SCI-indexed international journals, such a
 ## Journal papers
 - [13]  **Zhuolin Li**, Zhen Zhang*, Witold Pedrycz. An incremental preference elicitation-based approach to learning potentially non-monotonic preferences in multi-criteria sorting, European Journal of Operational Research, 2025, in press. (SCI, EI, IF=6.0, ABS 4)
 
-- [12] Zhen Zhang, **Zhuolin Li<sup>*</sup>**, Wenyu Yu*. Lexicographic optimization-based approaches to learning a representative model for multi-criteria sorting with non-monotonic criteria, Computers & Operations Research, 2025, 174, 106917. (SCI, EI, 2023 IF=4.1, ABS 3)
+- [12] Zhen Zhang, **Zhuolin Li<sup>\*</sup>**, Wenyu Yu*. Lexicographic optimization-based approaches to learning a representative model for multi-criteria sorting with non-monotonic criteria, Computers & Operations Research, 2025, 174, 106917. (SCI, EI, 2023 IF=4.1, ABS 3)
 
 - [11] **Zhuolin Li**, Zhen Zhang*, Witold Pedrycz. Integrating machine learning models to learn potentially non-monotonic preferences for multi-criteria sorting from large-scale assignment examples, Omega, 2025, 131, 103219. (SCI, SSCI, EI, IF=6.7, ABS 3)
 
