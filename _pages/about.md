@@ -35,13 +35,13 @@ She has been a peer reviewer for some SCI-indexed international journals, such a
 - [01] Zhen Zhang, Wenyu Yu, **Zhuolin Li**. Modeling Complex Linguistic Information to Support Group Decision Making Under Uncertainty, Springer Nature, Singapore, 2024, ISBN: 978-981-97-3583-9.
 
 ## Journal papers
-- [13]  **Zhuolin Li**, Zhen Zhang*, Witold Pedrycz. An incremental preference elicitation-based approach to learning potentially non-monotonic preferences in multi-criteria sorting, European Journal of Operational Research, 2025, in press. (SCI, EI, IF=6.0, ABS 4)
+- [13]  **Zhuolin Li**, Zhen Zhang*, Witold Pedrycz. An incremental preference elicitation-based approach to learning potentially non-monotonic preferences in multi-criteria sorting, European Journal of Operational Research, 2025, in press, doi: 10.1016/j.ejor.2024.11.047. (SCI, EI, IF=6.0, ABS 4)
 
 - [12] Zhen Zhang, **Zhuolin Li<sup>\*</sup>**, Wenyu Yu*. Lexicographic optimization-based approaches to learning a representative model for multi-criteria sorting with non-monotonic criteria, Computers & Operations Research, 2025, 174, 106917. (SCI, EI, 2023 IF=4.1, ABS 3)
 
 - [11] **Zhuolin Li**, Zhen Zhang*, Witold Pedrycz. Integrating machine learning models to learn potentially non-monotonic preferences for multi-criteria sorting from large-scale assignment examples, Omega, 2025, 131, 103219. (SCI, SSCI, EI, IF=6.7, ABS 3)
 
-- [10] **Zhuolin Li**, Zhen Zhang*. Modeling personalized individual semantics in multicriteria decision making with incomplete linguistic preference relations: A preference disaggregation perspective, IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2024, doi: 10.1109/TSMC.2024.3472699. (SCI, EI, 2023 IF=8.6, ABS 3)
+- [10] **Zhuolin Li**, Zhen Zhang*. Modeling personalized individual semantics in multicriteria decision making with incomplete linguistic preference relations: A preference disaggregation perspective, IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2025, 55(1), pp. 390-403. (SCI, EI, 2023 IF=8.6, ABS 3)
 
 - [09] **Zhuolin Li**, Zhen Zhang, Wenyu Yu*. Consensus reaching for ordinal classification-based group decision making with heterogeneous preference information, Journal of the Operational Research Society, 2024, 75(2), pp. 224-245. (SCI, SSCI, EI, 2023 IF=2.7, ABS 3, **ESI highly cited paper**)
 
