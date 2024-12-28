@@ -21,7 +21,7 @@ Zhuolin Li received the B.S. degree in engineering management from the Taiyuan U
 
 Her research interest includes multi-criteria sorting, preference learning and group decision making. She authored one monograph and published 14 papers on referred journals and conference proceedings, including  European Journal of Operational Research, IEEE Transactions on Systems, Man, and Cybernetics: Systems, IEEE Transactions on Computational Social Systems, Omega, Computers & Operations Research, Journal of the Operational Research Society, Annals of Operations Research, Information Fusion, Computers & Industrial Engineering, among others.
 
-She has been a peer reviewer for some SCI-indexed international journals, such as IEEE Transactions on Systems, Man, and Cybernetics: Systems, Information Fusion, Fuzzy Systems and Sets, Artificial Intelligence Review, Group Decision and Negotiation, Journal of Intelligent & Fuzzy Systems, Kybernetes, Complexity.
+She has been a peer reviewer for some SCI-indexed international journals, such as IEEE Transactions on Systems, Man, and Cybernetics: Systems, Information Fusion, Fuzzy Systems and Sets, Artificial Intelligence Review, Group Decision and Negotiation, Operational Research, Journal of Intelligent & Fuzzy Systems, International Journal of Computational Intelligence Systems, Kybernetes, Complexity.
 
 
 # 🔥 News
