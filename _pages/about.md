@@ -53,9 +53,9 @@ She has been a peer reviewer for some SCI-indexed international journals, such a
 
 - [05] Peng Li, Zhiwei Xu, Zhen Zhang*, **Zhuolin Li**, Cuiping Wei. Consensus reaching in multi-criteria social network group decision making: A stochastic multicriteria acceptability analysis-based method, Information Fusion, 2023, 97, 101825. (SCI, EI, 2023 IF=14.8, **ESI highly cited paper**)
 
-- [04] Zhen Zhang, **Zhuolin Li**. Personalized individual semantics-based consistency control and consensus reaching in linguistic group decision making, IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2022, 52(9), pp. 5623-5635. (SCI, EI, 2022 IF=8.7,**ESI highly cited paper, ESI hot paper**)
+- [04] Zhen Zhang, **Zhuolin Li**. Personalized individual semantics-based consistency control and consensus reaching in linguistic group decision making, IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2022, 52(9), pp. 5623-5635. (SCI, EI, 2022 IF=8.7, ABS 3, **ESI highly cited paper, ESI hot paper**)
 
-- [03] **Zhuolin Li**, Zhen Zhang, Wenyu Yu*. Consensus reaching with consistency control in group decision making with incomplete hesitant fuzzy linguistic preference relations, Computers & Industrial Engineering, 2022, 170, 108311, doi: 10.1016/j.cie.2022.108311. (SCI, EI, 2022 IF=7.9, **ESI highly cited paper**)
+- [03] **Zhuolin Li**, Zhen Zhang, Wenyu Yu*. Consensus reaching with consistency control in group decision making with incomplete hesitant fuzzy linguistic preference relations, Computers & Industrial Engineering, 2022, 170, 108311. (SCI, EI, 2022 IF=7.9, **ESI highly cited paper**)
 
 - [02] Zhen Zhang*, **Zhuolin Li**, Yuan Gao. Consensus reaching for group decision making with multi-granular unbalanced linguistic information: A bounded confidence and minimum adjustment-based approach, Information Fusion, 2021, 74, pp. 96-110. (SCI, EI, 2021 IF=17.564, **ESI highly cited paper**)
 
