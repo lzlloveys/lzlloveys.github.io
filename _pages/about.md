@@ -71,7 +71,7 @@ She has been a peer reviewer for some SCI-indexed international journals, such a
 - [04] Participant, Data-Driven Preference Learning Methods for Multi-Criteria Sorting with Non-Monotonic Preferences, granted by Natural Science Foundation of Liaoning Province (2024-MSBA-26), 2024.09 – 2026.08.
 - [03] Participant, Consensus-Based Models for Linguistic Group Decision Making and Multi-Criteria Sorting, the Funds for Xinghai Outstanding Young Talents in DUT (X20190322), 2020.1 - 2023.12.
 - [02] Participant, Data-Driven Multi-Criteria Sorting Methods Considering Non-Monotonic Preferences of Decision Makers, the Fundamental Research Funds for the Central Universities of China (DUT23RW406), 2023.01 - 2024.12.
-- [01] Data-Driven Multi-Criteria Sorting Methods Considering Non-Monotonic Preferences of Decision Makers, the Fundamental Research Funds for the Central Universities of China (DUT23RW406), 2023.01 - 2024.12.
+- [01] Participant, Consensus-Driven Models and Algorithms for Group Recommender Systems under Big Data environment, granted by Dalian Science and Technology Bureau (2018RQ69), 2019.1 - 2020.12.
  -->
 
 
