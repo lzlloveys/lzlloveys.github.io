@@ -25,7 +25,7 @@ She has been a peer reviewer for some SCI-indexed international journals, such a
 
 
 # 🔥 News
-- *2024.09.08* : &nbsp;🎉🎉 a new paper was accepted by <a href='https://ieeexplore.ieee.org/document/11153567'>IEEE Transactions on Systems, Man, and Cybernetics: Systems</a>.
+- *2025.09.08* : &nbsp;🎉🎉 a new paper was accepted by <a href='https://ieeexplore.ieee.org/document/11153567'>IEEE Transactions on Systems, Man, and Cybernetics: Systems</a>.
 - *2024.11.28* : &nbsp;🎉🎉 a new paper was accepted by <a href='https://www.sciencedirect.com/science/article/pii/S037722172400938X'>European Journal of Operational Research</a>. 
 - *2024.11.16* : &nbsp;🎉🎉 a new paper was accepted by <a href='https://www.sciencedirect.com/science/article/pii/S0305054824003897'>Computers & Operations Research</a>.
 - *2024.10.18* : &nbsp;🎉🎉 a new paper was accepted by <a href='https://www.sciencedirect.com/science/article/pii/S030504832400183X'>Omega: The International Journal of Management Science</a>.
@@ -37,7 +37,7 @@ She has been a peer reviewer for some SCI-indexed international journals, such a
 
 ## Journal papers
 - [14]  Zhen Zhang, Jize Luo, Wenyu Yu*, **Zhuolin Li**, Francisco Chiclana. Integrating personalized individual semantics and consistency control to support consensus reaching in 2-rank group decision making, IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2025, in press, doi: 10.1109/TSMC.2025.3597963. (SCI, EI, 2024 IF=8.7, ABS 3)
-- 
+
 - [13]  **Zhuolin Li**, Zhen Zhang*, Witold Pedrycz. An incremental preference elicitation-based approach to learning potentially non-monotonic preferences in multi-criteria sorting, European Journal of Operational Research, 2025, 323(2), pp. 553-570. (SCI, EI, 2023 IF=6.0, ABS 4)
 
 - [12] **Zhuolin Li**, Zhen Zhang*, Witold Pedrycz. Integrating machine learning models to learn potentially non-monotonic preferences for multi-criteria sorting from large-scale assignment examples, Omega, 2025, 131, 103219. (SCI, SSCI, EI, 2023 IF=6.7, ABS 3)
@@ -79,7 +79,7 @@ She has been a peer reviewer for some SCI-indexed international journals, such a
 
 
 # 🎖 Honors and Awards
-- • National Scholarships (*2025*, 2024*, *2023*, *2021*).
+- • National Scholarships (*2025*, *2024*, *2023*, *2021*).
 - • Excellent Postgraduate Student of Dalian University of Technology (*2025*, *2024*, *2023*, *2021*, *2020*).
 - • Excellent Master&apos;s Thesis in Liaoning Province (*2022*).
 - • Excellent Master&apos;s Thesis of Dalian University of Technology (*2022*).
