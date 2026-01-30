@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhuolin Li (李卓琳)"
-description              : "PhD candidate in Dalian University of Technology"
+description              : "Assistant Professor, Southwest Jiaotong University"
 #repository               :  "rayeren/rayeren.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  : code-ZxFK3f4pfb
 author:
   name             : "Zhuolin Li (李卓琳)"
   avatar           : "images/Zhuolin_photo.jpg"
-  bio              : "Dalian University of Technology"
-  location         : "Dalian, China"
+  bio              : "Southwest Jiaotong University"
+  location         : "Chengdu, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=SiYuMYcAAAAJ"
