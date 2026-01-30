@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Zhuolin Li received the B.S. degree in engineering management from the Taiyuan University of Technology, Taiyuan, China, in 2019, and the master&apos;s degree in management science and engineering from the Dalian University of Technology, Dalian, China, in 2022, where she is currently pursuing the Ph.D. degree, under the supervision of <a href='http://faculty.dlut.edu.cn/zzhang'>Prof. Zhen Zhang</a>. She is also a visiting Ph.D. student in the University of Alberta, Canada, under the supervision of <a href='https://scholar.google.com/citations?user=0nrcfZwAAAAJ'>Prof. Witold Pedrycz</a>.
+Zhuolin Li is now an assistant professor in School of Economics and Management, Southwest Jiaotong University. She received the B.S. degree in engineering management from the Taiyuan University of Technology, Taiyuan, China, in 2019, the master&apos;s degree and the Ph.D. degree in management science and engineering from the Dalian University of Technology, Dalian, China, in 2022 and 2025, respectively, under the supervision of <a href='http://faculty.dlut.edu.cn/zzhang'>Prof. Zhen Zhang</a>. She was also a visiting Ph.D. student in the University of Alberta, Canada, under the supervision of <a href='https://scholar.google.com/citations?user=0nrcfZwAAAAJ'>Prof. Witold Pedrycz</a>.
 
-Her research interest includes multi-criteria decision making, preference learning and group decision making. She authored one monograph and published 15 papers on referred journals and conference proceedings, including  European Journal of Operational Research, Omega, IEEE Transactions on Systems, Man, and Cybernetics: Systems, IEEE Transactions on Computational Social Systems, Computers & Operations Research, Journal of the Operational Research Society, Annals of Operations Research, Information Fusion, Computers & Industrial Engineering, among others.
+Her research interest includes preference learning, multi-criteria decision making and group decision making. She authored one monograph and published 15 papers on referred journals and conference proceedings, including  European Journal of Operational Research, Omega, IEEE Transactions on Systems, Man, and Cybernetics: Systems, IEEE Transactions on Computational Social Systems, Computers & Operations Research, Journal of the Operational Research Society, Annals of Operations Research, Information Fusion, Computers & Industrial Engineering, among others.
 
 She has been a peer reviewer for some SCI-indexed international journals, such as Omega, IEEE Transactions on Systems, Man, and Cybernetics: Systems, Information Fusion, Fuzzy Systems and Sets, Artificial Intelligence Review, Group Decision and Negotiation, Operational Research, Journal of Intelligent & Fuzzy Systems, International Journal of Computational Intelligence Systems, Kybernetes, Complexity.
 
@@ -90,8 +90,8 @@ She has been a peer reviewer for some SCI-indexed international journals, such a
 - • Three Good Students of Taiyuan University of Technology (*2017*).
 
 # 📖 Educations
-- • *2022.09 - now*, Ph.D. candidate, School of  Economics and Management, Dalian University of Technology.
-- • *2023.11 - 2025.05, visiting Ph.D. student, Faculty of Engineering, University of Alberta.
+- • *2022.09 - 2025.12*, Ph.D. degree, School of Economics and Management, Dalian University of Technology.
+- • *2023.11 - 2025.05*, visiting Ph.D. student, Faculty of Engineering, University of Alberta.
 - • *2019.09 - 2022.06*, Master&apos;s degree, School of  Economics and Management, Dalian University of Technology.
 - • *2015.09 - 2019.06*, Bachelor&apos;s degree, School of  Economics and Management, Taiyuan University of Technology.
 
