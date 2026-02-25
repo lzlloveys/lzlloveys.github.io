@@ -38,17 +38,17 @@ She has been a peer reviewer for some SCI-indexed international journals, such a
 ## Journal papers
 - [14]  Zhen Zhang, Jize Luo, Wenyu Yu*, **Zhuolin Li**, Francisco Chiclana. Integrating personalized individual semantics and consistency control to support consensus reaching in 2-rank group decision making, IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2026, 56(2), 800-811. (SCI, EI, 2024 IF=8.7, ABS 3)
 
-- [13]  **Zhuolin Li**, Zhen Zhang*, Witold Pedrycz. An incremental preference elicitation-based approach to learning potentially non-monotonic preferences in multi-criteria sorting, European Journal of Operational Research, 2025, 323(2), pp. 553-570. (SCI, EI, 2023 IF=6.0, ABS 4)
+- [13]  **Zhuolin Li**, Zhen Zhang*, Witold Pedrycz. An incremental preference elicitation-based approach to learning potentially non-monotonic preferences in multi-criteria sorting, European Journal of Operational Research, 2025, 323(2), pp. 553-570. (SCI, EI, 2024 IF=6.0, ABS 4)
 
-- [12] **Zhuolin Li**, Zhen Zhang*, Witold Pedrycz. Integrating machine learning models to learn potentially non-monotonic preferences for multi-criteria sorting from large-scale assignment examples, Omega, 2025, 131, 103219. (SCI, SSCI, EI, 2023 IF=6.7, ABS 3)
+- [12] **Zhuolin Li**, Zhen Zhang*, Witold Pedrycz. Integrating machine learning models to learn potentially non-monotonic preferences for multi-criteria sorting from large-scale assignment examples, Omega, 2025, 131, 103219. (SCI, SSCI, EI, 2024 IF=7.2, ABS 3)
 
-- [11] Zhen Zhang, **Zhuolin Li<sup>\*</sup>**, Wenyu Yu*. Lexicographic optimization-based approaches to learning a representative model for multi-criteria sorting with non-monotonic criteria, Computers & Operations Research, 2025, 174, 106917. (SCI, EI, 2023 IF=4.1, ABS 3)
+- [11] Zhen Zhang, **Zhuolin Li<sup>\*</sup>**, Wenyu Yu*. Lexicographic optimization-based approaches to learning a representative model for multi-criteria sorting with non-monotonic criteria, Computers & Operations Research, 2025, 174, 106917. (SCI, EI, 2024 IF=4.3, ABS 3)
 
-- [10] **Zhuolin Li**, Zhen Zhang*. Modeling personalized individual semantics in multicriteria decision making with incomplete linguistic preference relations: A preference disaggregation perspective, IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2025, 55(1), pp. 390-403. (SCI, EI, 2023 IF=8.6, ABS 3)
+- [10] **Zhuolin Li**, Zhen Zhang*. Modeling personalized individual semantics in multicriteria decision making with incomplete linguistic preference relations: A preference disaggregation perspective, IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2025, 55(1), pp. 390-403. (SCI, EI, 2024 IF=8.7, ABS 3)
 
-- [09] **Zhuolin Li**, Zhen Zhang, Wenyu Yu*. Consensus reaching for ordinal classification-based group decision making with heterogeneous preference information, Journal of the Operational Research Society, 2024, 75(2), pp. 224-245. (SCI, SSCI, EI, 2023 IF=2.7, ABS 3, **ESI highly cited paper**)
+- [09] **Zhuolin Li**, Zhen Zhang, Wenyu Yu*. Consensus reaching for ordinal classification-based group decision making with heterogeneous preference information, Journal of the Operational Research Society, 2024, 75(2), pp. 224-245. (SCI, SSCI, EI, 2024 IF=2.7, ABS 3, **ESI highly cited paper**)
 
-- [08]  **Zhuolin Li**, Zhen Zhang*. Threshold-based value-driven method to support consensus reaching in multi-criteria group sorting problems: A minimum adjustment perspective, IEEE Transactions on Computational Social Systems, 2024, 11(1), pp. 1230-1243. (SCI, EI, 2023 IF=4.5, **ESI highly cited paper**)
+- [08]  **Zhuolin Li**, Zhen Zhang*. Threshold-based value-driven method to support consensus reaching in multi-criteria group sorting problems: A minimum adjustment perspective, IEEE Transactions on Computational Social Systems, 2024, 11(1), pp. 1230-1243. (SCI, EI, 2024 IF=4.9, **ESI highly cited paper**)
 
 - [07]  Zhen Zhang*, **Zhuolin Li**. Consensus-based TOPSIS-Sort-B for multi-criteria sorting in the context of group decision making, Annals of Operations Research, 2023, 325(2), pp. 911-938. (SCI, 2023 IF=4.4, ABS 3, **ESI highly cited paper**)
 
