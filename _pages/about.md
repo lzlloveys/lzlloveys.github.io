@@ -36,7 +36,7 @@ She has been a peer reviewer for some SCI-indexed international journals, such a
 - [01] Zhen Zhang, Wenyu Yu, **Zhuolin Li**. Modeling Complex Linguistic Information to Support Group Decision Making Under Uncertainty, Springer Nature, Singapore, 2024, ISBN: 978-981-97-3583-9.
 
 ## Journal papers
-- [14]  Zhen Zhang, Jize Luo, Wenyu Yu*, **Zhuolin Li**, Francisco Chiclana. Integrating personalized individual semantics and consistency control to support consensus reaching in 2-rank group decision making, IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2025, in press, doi: 10.1109/TSMC.2025.3597963. (SCI, EI, 2024 IF=8.7, ABS 3)
+- [14]  Zhen Zhang, Jize Luo, Wenyu Yu*, **Zhuolin Li**, Francisco Chiclana. Integrating personalized individual semantics and consistency control to support consensus reaching in 2-rank group decision making, IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2026, 56(2), 800-811. (SCI, EI, 2024 IF=8.7, ABS 3)
 
 - [13]  **Zhuolin Li**, Zhen Zhang*, Witold Pedrycz. An incremental preference elicitation-based approach to learning potentially non-monotonic preferences in multi-criteria sorting, European Journal of Operational Research, 2025, 323(2), pp. 553-570. (SCI, EI, 2023 IF=6.0, ABS 4)
 
